@@ -7,3 +7,4 @@ npm-debug.log
 .firebaserc
 firebase.json
 public/404.html
+.firebase/
